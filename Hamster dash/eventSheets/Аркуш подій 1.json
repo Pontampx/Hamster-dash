@@ -964,6 +964,38 @@
 				}
 			],
 			"sid": 445857962404154
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 272602562755134
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Миша",
+					"sid": 793912986454901,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Спрайт32"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 203221316575490,
+					"parameters": {
+						"layout": "\"Рівень 11\""
+					}
+				}
+			],
+			"sid": 733426203197304
 		}
 	],
 	"sid": 331935314159413
