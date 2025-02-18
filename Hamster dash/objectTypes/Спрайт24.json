@@ -1,0 +1,52 @@
+{
+	"name": "Спрайт24",
+	"plugin-id": "Sprite",
+	"sid": 651505742742571,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 155,
+						"height": 309,
+						"originX": 0.5032258064516129,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8615059,
+						"collisionPoly": {
+							"points": [
+								0,
+								0.003236245954692557,
+								1,
+								0.003236245954692557,
+								1,
+								0.9967637540453075,
+								0,
+								0.9967637540453075
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 837200939537100,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

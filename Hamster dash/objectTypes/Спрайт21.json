@@ -1,0 +1,52 @@
+{
+	"name": "Спрайт21",
+	"plugin-id": "Sprite",
+	"sid": 266033828518832,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 193,
+						"height": 341,
+						"originX": 0.5025906735751295,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8790768,
+						"collisionPoly": {
+							"points": [
+								0.12953383687864317,
+								0.10263938568204724,
+								0.8497410907646531,
+								0.0821114369501466,
+								0.9222797927461137,
+								0.8797653064000637,
+								0.11398979542786593,
+								0.8856305880280876
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 616726116034398,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

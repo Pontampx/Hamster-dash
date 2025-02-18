@@ -1,0 +1,392 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 42402,
+	"name": "Новий проєкт",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Audio",
+			"name": "Аудіо",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Keyboard",
+			"name": "Клавіатура",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Mouse",
+			"name": "Миша",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Спрайт",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Текст",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Плиточний фон",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Touch",
+			"name": "Дотик",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "UserMedia",
+			"name": "Користувацьке медіа",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "MoveTo",
+			"name": "Рух до",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Платформер",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Rotate",
+			"name": "Обертання",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "custom",
+			"name": "Налаштовуваний рух",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Стеження",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Тверде тіло",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "gv2qeu0pqqt",
+	"objectTypes": {
+		"items": [
+			"Спрайт",
+			"Текст",
+			"Спрайт2",
+			"Спрайт3",
+			"Спрайт4",
+			"Текст2",
+			"Миша",
+			"Дотик",
+			"Аудіо",
+			"Спрайт5",
+			"Спрайт6",
+			"Спрайт7",
+			"Спрайт8",
+			"Спрайт9",
+			"Спрайт10",
+			"Спрайт11",
+			"Спрайт12",
+			"Спрайт13",
+			"Текст3",
+			"Текст4",
+			"КористувацькеМедіа",
+			"Спрайт14",
+			"Спрайт15",
+			"Спрайт16",
+			"Спрайт17",
+			"Спрайт18",
+			"Спрайт19",
+			"Спрайт20",
+			"Спрайт21",
+			"Спрайт22",
+			"Спрайт23",
+			"ПлиточнийФон",
+			"Спрайт24",
+			"ПлиточнийФон2",
+			"Текст5",
+			"Спрайт25",
+			"Спрайт26",
+			"ПлиточнийФон3",
+			"Спрайт27",
+			"Спрайт28",
+			"Спрайт29",
+			"Спрайт30",
+			"Спрайт31",
+			"Спрайт32",
+			"ПлиточнийФон4",
+			"Спрайт33",
+			"Спрайт34",
+			"Спрайт35",
+			"Спрайт36",
+			"Спрайт37",
+			"Спрайт38",
+			"Клавіатура",
+			"Спрайт39",
+			"ПлиточнийФон5",
+			"Спрайт40",
+			"Спрайт41",
+			"Спрайт42"
+		],
+		"subfolders": []
+	},
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Рівень 1",
+			"Рівень 2",
+			"Рівень 3",
+			"Рівень 4",
+			"Рівень 5",
+			"Рівень 6",
+			"Рівень 7",
+			"Рівень 8",
+			"Рівень 9",
+			"Рівень 10",
+			"Рівень 11"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Аркуш подій 1"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [
+				{
+					"name": "interworld-metamorphosis-(meloua.com).webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 464042186598953,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "aggressive-slowedreverb-phonk-2025-mix-253173.webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 188647382358274,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "1723908556_msbsthmstrcrmnl (1).webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 903819359576713,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "CURSEDEVIL, DJ FKU, Skorde - Tuca Donka (Brazilian Phonk).webm",
+					"type": "audio/webm; codecs=opus",
+					"sid": 624300070162819,
+					"file-info": {
+						"purpose": "none"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "Іконка-16.png",
+					"type": "image/png",
+					"sid": 986662050378960,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-32.png",
+					"type": "image/png",
+					"sid": 275520692489618,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-64.png",
+					"type": "image/png",
+					"sid": 657900618717996,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-128.png",
+					"type": "image/png",
+					"sid": 519732400542687,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-256.png",
+					"type": "image/png",
+					"sid": 742539042155034,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-512.png",
+					"type": "image/png",
+					"sid": 844723253078809,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Іконка-завантаження.png",
+					"type": "image/png",
+					"sid": 198813549789285,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Лінія часу 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"flowcharts": {
+		"items": [
+			"Схема блоків 1"
+		],
+		"subfolders": []
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"autoIncrementVersion": false,
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": false,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"exportFileStructure": "folders",
+		"uidAllocationMode": "increment"
+	},
+	"viewportWidth": 854,
+	"viewportHeight": 480,
+	"firstLayout": null
+}

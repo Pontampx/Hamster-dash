@@ -1,0 +1,61 @@
+{
+	"name": "Спрайт6",
+	"plugin-id": "Sprite",
+	"sid": 570742471277286,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Платформер",
+			"sid": 263260270841311
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "Стеження",
+			"sid": 986592503306681
+		},
+		{
+			"behaviorId": "solid",
+			"name": "ТвердеТіло",
+			"sid": 740287487669411
+		},
+		{
+			"behaviorId": "Rotate",
+			"name": "Обертання",
+			"sid": 697222656297151
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 475,
+						"height": 477,
+						"originX": 0.5347368421052632,
+						"originY": 0.4832285115303983,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 7959759,
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 250568024164550,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"name": "Спрайт13",
+	"plugin-id": "Sprite",
+	"sid": 859455154304368,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "scrollto",
+			"name": "Стеження",
+			"sid": 420391977440020
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 249,
+						"height": 187,
+						"originX": 0.4939759036144578,
+						"originY": 0.42245989304812837,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 9842499,
+						"collisionPoly": {
+							"points": [
+								0.2630523313958962,
+								0.5775401069518714,
+								0.7389558845734503,
+								0.5828876189369571,
+								0.7409637941414098,
+								0.8342245581315798,
+								0.2610442379871046,
+								0.8288769237497903
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 360595877484658,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

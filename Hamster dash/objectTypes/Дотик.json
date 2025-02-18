@@ -1,0 +1,14 @@
+{
+	"name": "Дотик",
+	"plugin-id": "Touch",
+	"sid": 432056520253343,
+	"singleglobal-inst": {
+		"type": "Дотик",
+		"properties": {
+			"use-mouse-input": true
+		},
+		"uid": 10,
+		"sid": 495925756923326,
+		"tags": ""
+	}
+}

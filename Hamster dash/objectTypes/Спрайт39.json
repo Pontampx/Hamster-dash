@@ -1,0 +1,63 @@
+{
+	"name": "Спрайт39",
+	"plugin-id": "Sprite",
+	"sid": 727821496016919,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "MoveTo",
+			"name": "РухДо",
+			"sid": 153768128708334
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "Стеження",
+			"sid": 703958896584749
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 737,
+						"height": 613,
+						"originX": 0.9240162822252375,
+						"originY": 0.07177814029363784,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6049151,
+						"collisionPoly": {
+							"points": [
+								0.6811399213979815,
+								0.09951060358890704,
+								1,
+								0.0016313213703099511,
+								0.9810042361876696,
+								0.3278953962963911,
+								0.814111261872456,
+								0.23980419165158562
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 347130568576115,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
